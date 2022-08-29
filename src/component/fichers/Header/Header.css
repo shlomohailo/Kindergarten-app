@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(170, 145, 145);
+   position: sticky;
+   width: 100%;
+   border: 3px solid;
+   
+}
+#h1_hedaer{
+    display: block;
+text-align: center;
+}
+#btn_link{
+    display: flex;
+    justify-content: space-evenly;
+}

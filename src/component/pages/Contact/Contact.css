@@ -1,0 +1,9 @@
+#form{
+ width: 10vw;
+ height: 50vh;
+ margin: auto auto;
+}
+#submit_btn{
+    align-items: center;
+    margin-top: 10px;
+}
